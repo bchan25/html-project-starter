@@ -1,2 +1,3 @@
-# html-project-starter
-HTML basic starter project
+# HTML Starter Project
+
+Basic HTML Starter for projects
